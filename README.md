@@ -5,7 +5,7 @@
 
 # phishing-com-kali-linux
 
- Laboratório de Engenharia Social com SET - DIO
+ Desafio de Engenharia Social com SET - DIO
 
 Nesse projeto foi utilizado a ferramenta setoolkit para criar uma pagina falsa do Facebook para captura de senhas com objetivo de segurança defensiva ..
 
@@ -36,7 +36,7 @@ Entender, em ambiente de laboratório, como funcionam ataques de engenharia soci
 
 O projeto: 
 
-Utilizar a ferramenta o setoolkit para criar uma página falsa do Facebook para capturas de senhas.
+Utilizar a ferramenta o setoolkit para criar uma página falsa do Facebook para capturas de senhas com o objetivo de prevenir de ataques maliciosos.
 
 Para realizar esse desafio do projeto usei a caixa virtualBox, usando o sistema operacional do Kali Linux. 
 
