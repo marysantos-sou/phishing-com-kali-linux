@@ -1,4 +1,10 @@
+<img width="1366" height="643" alt="VirtualBox_kali _25_09_2026_21_15_04" src="https://github.com/user-attachments/assets/d02cd97d-20d7-4461-bc74-2fc70581795f" />
+<img width="1366" height="643" alt="VirtualBox_kali _25_09_2026_21_14_29" src="https://github.com/user-attachments/assets/f9be1809-e3d0-4d33-bf4e-d68f56036c80" />
+<img width="1366" height="643" alt="VirtualBox_kali _25_09_2026_21_12_14" src="https://github.com/user-attachments/assets/b28c99fb-aa86-40a9-b3be-36ee5f92bc60" /> 
+
+
 # phishing-com-kali-linux
+
  Laboratório de Engenharia Social com SET - DIO
 
 Nesse projeto foi utilizado a ferramenta setoolkit para criar uma pagina falsa do Facebook para captura de senhas com objetivo de segurança defensiva ..
