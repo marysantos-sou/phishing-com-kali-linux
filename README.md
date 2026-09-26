@@ -29,7 +29,7 @@ Entender, em ambiente de laboratório, como funcionam ataques de engenharia soci
 - Usar autenticação de dois fatores (2FA)
 - Treinamento de conscientização para usuários
 
-# Aviso Ético: Este laboratório foi executado apenas no ambiente virtual da DIO para fins de estudo. Não utilize essas técnicas fora de um ambiente controlado e autorizado.
+#Aviso Ético: Este desafio foi executado apenas no ambiente virtual da DIO para fins de estudo. Não utilize essas técnicas fora de um ambiente controlado e autorizado.
 
 
 # PASSO A PASSO DE COMO FOI REALIZADO ESSE DESAFIO:
